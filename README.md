@@ -21,5 +21,4 @@ Python-Projekt für das Portfolio im Kurs
 ## Projekt starten
 
 Im Projektordner ein Terminal öffnen und folgenden Befehl ausführen:
-
 ```bash python main.py
